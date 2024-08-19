@@ -1,2 +1,2 @@
-# Project_2
- Covido news website
+# Covido news website
+ 
